@@ -1,2 +1,2 @@
 # myep
-my educatiosn and projects
+my educations and projects
