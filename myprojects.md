@@ -12,10 +12,15 @@
   - Spillway
 - Specification
   - Design
+    - [Bidding drawing](https://db.tt/lK16PWaUzc)
+    - [Dam]()
+    - [Spillway]()
+    - [Tunnel]()
   - Construction
   - Material
-    - Concrete
-    - Aggregate
+    - Cement
+    - [Concrete](http://legacy.ybsitecenter.com/multi-images/uk/legacy/var/ag/13819/105399-Concrete_Complementary_British_Standard.pdf)
+    - [Aggregate](http://www.c-s-h.ir/wp-content/uploads/2015/10/BS-882.pdf)
     - Steel
 - Quantity survey
   - BOQ
