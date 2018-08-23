@@ -7,19 +7,16 @@
   - Insurance
   - Funding
 - Drawing
+  - [Bidding drawing](https://db.tt/lK16PWaUzc)
   - Dam
-  - Intake tower and tunnel
+  - [Tunnel](https://db.tt/4SQf05ltnQ)
   - Spillway
+    - [01](https://db.tt/8kcbLPmUzE)
+    - [02](https://db.tt/J5YphunBc9)
+    - [03](https://db.tt/Dy27QOWYUV)
+    - [04](https://db.tt/c65FD6OH0N)
 - Specification
   - Design
-    - [Bidding drawing](https://db.tt/lK16PWaUzc)
-    - [Dam]()
-    - [Spillway]
-      - [01](https://db.tt/8kcbLPmUzE)
-      - [02](https://db.tt/J5YphunBc9)
-      - [03](https://db.tt/Dy27QOWYUV) 
-      - [04](https://db.tt/c65FD6OH0N)
-    - [Tunnel](https://db.tt/4SQf05ltnQ)
   - Construction
   - Material
     - Cement
