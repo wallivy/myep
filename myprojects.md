@@ -16,7 +16,7 @@
     - [03](https://db.tt/Dy27QOWYUV)
     - [04](https://db.tt/c65FD6OH0N)
   - Report
-    - [SMEDI](https://db.tt/170XkxZAq8https://db.tt/170XkxZAq8)
+    - [SMEDI](https://db.tt/170XkxZAq8)
     - [changjiang institute](https://db.tt/VU5XTZYURY)
 - Specification
   - Design
