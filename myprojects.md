@@ -6,6 +6,10 @@
   - Purchasing
   - Insurance
   - Funding
+- Drawing
+  - Dam
+  - Intake tower and tunnel
+  - Spillway
 - Specification
   - Design
   - Construction
