@@ -11,7 +11,14 @@
   - [Concrete](http://legacy.ybsitecenter.com/multi-images/uk/legacy/var/ag/13819/105399-Concrete_Complementary_British_Standard.pdf)
   - [Aggregate](http://www.c-s-h.ir/wp-content/uploads/2015/10/BS-882.pdf)
   - [Aggregate CS3](http://www.devb.gov.hk/filemanager/en/content_850/4_Construction_Standard_CS3_2013_Aggregates_for_Concrete.pdf)
+  - [USSD:Materials for embankment dams](https://www.ussdams.org/wp-content/uploads/2016/05/materials.pdf)
+  - [Filter Diaphragms](https://mde.maryland.gov/programs/water/DamSafety/Documents/www.mde.state.md.us/assets/document/damsafety/NRCS/2007_NRCS_Filter_Diaphragm.pdf)
+  - [Standard for RIPRAP](https://www.state.nj.us/agriculture/divisions/anr/pdf/22_Rip%20Rap%202011.pdf)
+
   - [Steel]()
+- Inspection
+  - [Guidebook on non-destructive testing of concrete structure](https://www-pub.iaea.org/MTCD/publications/PDF/TCS-17_web.pdf)
+  -
 
 ## Road
 - Design
