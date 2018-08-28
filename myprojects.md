@@ -1,8 +1,8 @@
 # My projects
 ## Karimenu II dam
 - Introduction
-  - Geography
-  - outline
+  - Project
+  - Experience
 - Contract
   - [Main contract](https://db.tt/cP6LxDJ2MM)
   - Subcontracting
