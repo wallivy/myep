@@ -3,6 +3,13 @@
 - Design
   - [Manual for structural use of concrete](https://www.housingauthority.gov.hk/tc/common/pdf/business-partnerships/resources/concrete.pdf)
   - [Design manual of LINLSTUDPSR to BS8110](http://linkstudpsr.com/uploads/downloads/linkStudPSR-Design-Manual-to-BS8110-v2.0__1302185409.pdf)
+  - [General Design and Construction Considerations](https://wenku.baidu.com/view/bbd1ca165f0e7cd1842536c4.html)
+  - [防洪标准GB50201]（https://wenku.baidu.com/view/fad28b3c5727a5e9856a61a7.html）
+    - 最新2014
+  - [水利水电工程等级划分及洪水标准SL252]（https://wenku.baidu.com/view/56b1346a1eb91a37f1115cfc.html?sxts=1535784568421）
+    - 最新2017
+  - [碾压式土石坝设计规范SL274-2001]（http://www.doc88.com/p-870818784454.html）
+  -
 - Construction
   - [混凝土结构工程施工规范GB50666-2011](http://www.cqss.gov.cn/upload/20160408/10/160408105615_45190GB50666-2011%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%BB%93%E6%9E%84%E5%B7%A5%E7%A8%8B%E6%96%BD%E5%B7%A5%E8%A7%84%E8%8C%83.pdf)
   - [混凝土结构工程施工规范GB50666-2011解读]（http://jjgh.xhu.edu.cn/96/a9/c5026a104105/page.htm）
