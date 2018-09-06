@@ -22,6 +22,7 @@
   - [SL223-2008条文说明](https://wenku.baidu.com/view/95c08cb30342a8956bec0975f46527d3250ca669.html)
   - [水利水电工程施工施工质量检验及评定规程SL176-2007](https://wenku.baidu.com/view/49985a109b89680203d825fd.html?rec_flag=default&sxts=1536240293063)
   - [水利水电工程单元工程施工质量验收评定样表SL631~637-2012](https://wenku.baidu.com/view/820e4366b90d6c85ec3ac673.html)
+  - [General specification for water tank project](http://procurement-notices.undp.org/view_file.cfm?doc_id=75244)
   
 - Material
   - [水利水电工程天然建筑材料勘查规程SL251-2015](http://www.doc88.com/p-4167427437480.html)
