@@ -30,4 +30,22 @@
 - Project management
   - Scheduling
   - Methodology
-   -
+   - 编制要求
+     - [施工方案编制规范](https://wenku.baidu.com/view/90cce5ee10a6f524cdbf8518.html?from=search)
+   - 施工
+      - [高压旋喷防渗墙施工方案](https://db.tt/wh8mO2nYGF)
+      - [消力池施工方案](https://db.tt/Px7O74toYL)
+      - [过路箱涵施工方案](https://wenku.baidu.com/view/90cce5ee10a6f524cdbf8518.html?from=search)
+      - [永久支护施工方案](https://db.tt/iurwpjXetB)
+    - 爆破
+      - [输水导流洞爆破专项方案](https://db.tt/qQXm2oAyhk)
+      - [竖井爆破开挖方案](https://db.tt/yXIQCWlN9Y)
+    - 模板
+      - [取水塔模板方案](https://db.tt/6LvvBrUOxC)
+    - 临时
+      - [管棚施工方案](https://db.tt/6LvvBrUOxC)
+      - [水泥罐吊装方案](https://db.tt/CYAXAIRWWZ)
+      - [临时支护方案](https://db.tt/vfM36AxsAZ)
+    - 专项
+      - [安全生产管理方案](https://db.tt/vfM36AxsAZ)
+   
