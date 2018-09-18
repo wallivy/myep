@@ -3,8 +3,16 @@
 ## PMP
 - [PMI](https://www.pmi.org/)
 - [projectmanagement](https://www.projectmanagement.com/)
-- [WBS](http://www4.rcf.bnl.gov/~videbaks/hft/cd1/DOE_guidance_wBS.pdf)
-- [CYBRARY](https://www.cybrary.it/)
+- [4.1 Deveelop Project Charter](https://circle.visual-paradigm.com/docs/project-management-lifecycle-guide-through/initiation-phase/how-to-develop-project-charter/)
+  - [projet charter](https://it.ucsf.edu/sites/it.ucsf.edu/files/enterprise_reporting_charter.pdf)
+  - [how to develop a Project Charter](https://circle.visual-paradigm.com/docs/project-management-lifecycle-guide-through/initiation-phase/how-to-develop-project-charter/?pdf=12602)
+- [4.2 Developing the Project Management Plan](https://project-management.com/developing-the-project-management-plan/)
+  -
+
+
+
+
+   [WBS](http://www4.rcf.bnl.gov/~videbaks/hft/cd1/DOE_guidance_wBS.pdf)
 -
 
 
@@ -13,7 +21,7 @@
 - [PMI](https://www.pmi.org/)
 - [RICS](http://www.rics.org)
 - [ICC](https://iccwbo.org/)
-
+- [CYBRARY](https://www.cybrary.it/)
 ## Green
 - [LEED](https://new.usgbc.org/leed)
 - [BRE](https://www.breeam.com/)
