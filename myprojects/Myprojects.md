@@ -37,6 +37,8 @@
       - [消力池施工方案](https://db.tt/Px7O74toYL)
       - [过路箱涵施工方案](https://wenku.baidu.com/view/90cce5ee10a6f524cdbf8518.html?from=search)
       - [永久支护施工方案](https://db.tt/iurwpjXetB)
+      - [参：引水隧洞隧道施工组织设计](https://wenku.baidu.com/view/5142590490c69ec3d4bb7504.html?sxts=1537276195087&pn=50)
+      - []
     - 爆破
       - [输水导流洞爆破专项方案](https://db.tt/qQXm2oAyhk)
       - [竖井爆破开挖方案](https://db.tt/yXIQCWlN9Y)
