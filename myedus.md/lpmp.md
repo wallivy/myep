@@ -19,7 +19,6 @@
 ## Institutes
 - [FIDIC](http://fidic.org/)
 - [PMI](https://www.pmi.org/)
-- [RICS](http://www.rics.org)
 - [ICC](https://iccwbo.org/)
 - [CYBRARY](https://www.cybrary.it/)
 ## Green
