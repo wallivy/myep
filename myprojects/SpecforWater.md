@@ -1,4 +1,5 @@
 # Specification collection for Water
+---
 ## Design
   - [Rock and Earth Fill Dams-General Design and Construction Considerations](https://www.cedengineering.com/userfiles/Earth%20and%20Rock%20Fill%20Dams.PDF)
   - [Design and Construction of Embankment Dams ](http://aitech.ac.jp/~narita/tembankmentdam1.pdf)
@@ -44,20 +45,17 @@
 
 ## Inspection
   - [Guidebook on non-destructive testing of concrete structure](https://www-pub.iaea.org/MTCD/publications/PDF/TCS-17_web.pdf)
+  - [Seismic analysis of an existing earth and rockfill dam subjected to the MCE by FLAC](https://www.knightpiesold.com/en/assets/File/TMW%202016%20-%20Seismic%20Analysis%20of%20an%20Existing%20Earth%20and%20Rockfill%20Dam%20Subjected%20to%20MCE%20by%20FLAC.pdf)
+  - [Analysis of Observation Data of Earth-Rockfill Dam Based on Cloud Probability Distribution Density Algorithm ](http://www.jestr.org/downloads/Volume7Issue3/fulltext147314.pdf)
+  - [Effects on an earth- and rockfill dam undergoing dam safety measures ](https://www.ngm2016.com/uploads/2/1/7/9/21790806/082-095-ngm_2016_-_effects_on_an_earth-_and_rockfill_dam_undergoing_dam_safety_measures__toromanovic.pdf)
+  - [Climate Effects on the Behaviour of Earth-Rockfill Dams](https://fenix.tecnico.ulisboa.pt/downloadFile/395142092175/Climate%20Effects%20on%20the%20Behaviour%20of%20Earth-Rockfill%20Dams%20-%20João%20Dias.pdf)
+  - [Seismic Response Characteristics of Earth and Rockfill Dams](http://www.iitk.ac.in/nicee/wcee/article/WCEE2012_2563.pdf)
 
 ## Technical
- - [Seismic analysis of an existing earth and rockfill dam subjected to the MCE by FLAC](https://www.knightpiesold.com/en/assets/File/TMW%202016%20-%20Seismic%20Analysis%20of%20an%20Existing%20Earth%20and%20Rockfill%20Dam%20Subjected%20to%20MCE%20by%20FLAC.pdf)
- - [Analysis of Observation Data of Earth-Rockfill Dam Based on Cloud Probability Distribution Density Algorithm ](http://www.jestr.org/downloads/Volume7Issue3/fulltext147314.pdf)
- - [Effects on an earth- and rockfill dam undergoing dam safety measures ](https://www.ngm2016.com/uploads/2/1/7/9/21790806/082-095-ngm_2016_-_effects_on_an_earth-_and_rockfill_dam_undergoing_dam_safety_measures__toromanovic.pdf)
- - [Climate Effects on the Behaviour of Earth-Rockfill Dams](https://fenix.tecnico.ulisboa.pt/downloadFile/395142092175/Climate%20Effects%20on%20the%20Behaviour%20of%20Earth-Rockfill%20Dams%20-%20João%20Dias.pdf)
- - [Seismic Response Characteristics of Earth and Rockfill Dams](http://www.iitk.ac.in/nicee/wcee/article/WCEE2012_2563.pdf)
+
  - [Construction Problems with an Earth and Rockfill Dam](http://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1485&amp=&context=icchge&amp=&sei-redir=1&referer=https%253A%252F%252Fwww.bing.com%252Fsearch%253Fq%253Dearth%252Band%252Brockfill%252Bdam%2526qs%253Dn%2526sp%253D-1%2526pq%253Dearth%252Band%252Brockfill%252Bdams%2526sc%253D1-23%2526sk%253D%2526cvid%253D24F7F80D05824246B04FB8B24F0ED274%2526first%253D41%2526FORM%253DPORE#search=%22earth%20rockfill%20dam%22)
- -
-
-## Road
-- Design
-
-- Construction
-  - [Specs for Road and Bridge Construction Kenya](https://db.tt/KKB6Speo6u)
-
-- Material
+ - [德拉迪靳大坝反滤料和坝壳料两大技术难题的解决措施](https://db.tt/dxsduMIYCK)
+ - [反滤层在土石坝防渗中的作用研究 ](https://db.tt/h19mN0AA8N)
+ - [反滤料级配设计的思考 ](https://db.tt/EGGU000vQ2)
+ - [津桥湖水库工程反滤料级配设计研究 ](https://db.tt/PjfiPeHnnE)
+ - [亭口水库大坝反滤料选料研究](https://db.tt/eCJlMDCbyj)
