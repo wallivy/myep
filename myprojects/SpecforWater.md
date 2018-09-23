@@ -1,6 +1,9 @@
 # Specification collection for Water
 ---
 ## Design
+  - [Filters for
+ Embankment Dams-Best Practise for Design and Construction](https://www.fema.gov/media-library-data/1522783448418-8294f1e44e9509a1313f3930e5519d0e/filters_embankment_dams_508_update.pdf)
+  - [National Engineering Handbook-Hydrology](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/water/manage/hydrology/?cid=stelprdb1043063#)
   - [Rock and Earth Fill Dams-General Design and Construction Considerations](https://www.cedengineering.com/userfiles/Earth%20and%20Rock%20Fill%20Dams.PDF)
   - [Design and Construction of Embankment Dams ](http://aitech.ac.jp/~narita/tembankmentdam1.pdf)
   - [Design Standards No. 13 Embankment Dams](https://www.usbr.gov/tsc/techreferences/designstandards-datacollectionguides/finalds-pdfs/DS13-2.pdf)
@@ -41,6 +44,7 @@
 
 ## Material
   - [Materials for Embankment Dams](https://www.ussdams.org/wp-content/uploads/2016/05/materials.pdf)
+  - [Laboratory Tests on Granular Filters for Embankment Dams](http://www.dtic.mil/dtic/tr/fulltext/u2/a185623.pdf)
   - [水利水电工程天然建筑材料勘查规程SL251-2015](http://www.doc88.com/p-4167427437480.html)
   - [土工试验规程SL237-1999](http://www.doc88.com/p-963190010408.html)
   - [BS12:1996-Specification for Portland Cement](https://zh.scribd.com/doc/238191647/BS-12-1996-Specification-for-Portland-Cement)
@@ -73,3 +77,12 @@
  - [津桥湖水库工程反滤料级配设计研究 ](https://db.tt/PjfiPeHnnE)
  - [亭口水库大坝反滤料选料研究](https://db.tt/eCJlMDCbyj)
  - [《碾压式土石坝设计规范》稳定计算条款的过去、现在和将来](https://wenku.baidu.com/view/1ae54b8ede80d4d8d05a4f47.html)
+ - [土的渗透比降及允许渗透比](http://qzuo.blog.163.com/blog/static/119552992011122103145644/)
+ - [反滤层设计原理与准则](https://wenku.baidu.com/view/83aee8ca32d4b14e852458fb770bf78a65293a6f.html)
+ - [The Use of Protective Filters to Address Cracking in Embankment Dam](https://secure.tcc.co.nz/ei/images/ICEGE15%20Papers/Pabst%20360.00_.pdf)
+ - [The Design of Filter Materials and their Importance in Geotechnical Engineering](http://www.cfms-sols.org/sites/default/files/Actes/3313-3316.pdf)
+ - [Filters for Earth Dams](http://faculty.uml.edu/spaikowsky/Teaching/14.536/documents/FilterforEarthDamsarticle.pdf)
+ - [砂石滤层准则的研究与进展](https://db.tt/UVy1VRx3km)
+ - [管涌与滤层的研究：管涌部分](https://wenku.baidu.com/view/dacf751983d049649a66587f.html)
+ - [管涌与滤层的研究：滤层部分](https://wenku.baidu.com/view/6fd711d2998fcc22bdd10d28.html?rec_flag=default&sxts=1537699661134)
+ - [土石坝反滤层铺料箱](https://db.tt/vPM0Vbe7H9)
