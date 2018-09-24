@@ -29,7 +29,6 @@
 
 - Project management
   - Scheduling
-   - g
   - Methodology
    - 编制要求
      - [施工方案编制规范](https://wenku.baidu.com/view/90cce5ee10a6f524cdbf8518.html?from=search)
