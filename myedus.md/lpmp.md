@@ -6,6 +6,7 @@
 - [4.1 Deveelop Project Charter](https://circle.visual-paradigm.com/docs/project-management-lifecycle-guide-through/initiation-phase/how-to-develop-project-charter/)
   - [projet charter](https://it.ucsf.edu/sites/it.ucsf.edu/files/enterprise_reporting_charter.pdf)
   - [how to develop a Project Charter](https://circle.visual-paradigm.com/docs/project-management-lifecycle-guide-through/initiation-phase/how-to-develop-project-charter/?pdf=12602)
+  - [Project Management Lifecycle Guide](https://www.visual-paradigm.com/features/project-management-lifecycle-guide-through/)
 - [4.2 Developing the Project Management Plan](https://project-management.com/developing-the-project-management-plan/)
   -
 
