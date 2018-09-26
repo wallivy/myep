@@ -74,6 +74,9 @@
      - [Expert judgement in cost estimating: Modelling the reasoning process ](https://dspace.lib.cranfield.ac.uk/bitstream/handle/1826/1233/Expert%20Judgement%20in%20cost%20estimating%20-%202001.pdf;jsessionid=DA1F225568A60FF8388D88C11F796EC2?sequence=1)
      - [Understanding ‘Expert Judgement’ ](https://mosaicprojects.com.au/Mag_Articles/SA1059_Expert_Judgement.pdf)
      - [ On the use of expert judgement in the qualification of risk assessment](http://lib.tkk.fi/Diss/2003/isbn9513862445/isbn9513862445.pdf)
+     - [Expert Judgement](https://db.tt/Shxsk7nOd6)
+     - [Expert Judgment in Risk Analysis](http://create.usc.edu/sites/default/files/publications/expertjudgmentinriskanalysis_0.pdf)
+     - [EXPERT JUDGEMENT AND RISK PERCEPTION](http://research.dnv.com/skj/Papers/SkjWen.pdf)
    - [Data Gathering](https://learningspacetoolkit.org/needs-assessment/data-gathering-tools-2/index.html)
      - [Types Of Data Gathering](https://www.psychologytools.com/self-help/data-gathering/)
      - [ Data Gathering and Evaluation](http://www.ala.org/rusa/sections/rss/rsssection/rsscomm/rssresstat/datagathereval)
@@ -101,21 +104,21 @@
      - [What are Project Assumptions?](https://www.pmbypm.com/what-are-assumptions/)
      - [Assumption log template](http://www.free-management-ebooks.com/dldtem-pdf/fme-assumption-log-template.pdf)
 
-
-
-
-
-
-
-
-
-
 - [4.2 Developing the Project Management Plan](https://project-management.com/developing-the-project-management-plan/)
-  - [Project Management Plan Kickoff](http://oe.ucdavis.edu/local_resources/docs/pmpkickoff.pdf)
-  - [Project Management Plan](https://www.projectmanagementdocs.com/template/project-planning/project-management-plan/#axzz5S1jb73BE)
-  - [Expert Judgement](https://db.tt/Shxsk7nOd6)
-  - [Expert Judgment in Risk Analysis](http://create.usc.edu/sites/default/files/publications/expertjudgmentinriskanalysis_0.pdf)
-  - [EXPERT JUDGEMENT AND RISK PERCEPTION](http://research.dnv.com/skj/Papers/SkjWen.pdf)
+  - Inpouts
+    - [Project charter](\)
+    - [Outputs from other processes](\)
+    - [Enterprise environment factors](\)
+    - [Organizational process assets](\)
+  - Tools & Techniques
+    - [Expert judgement](\)
+    - [Data gathering](\)
+    - [Interpersonal and team skill](\)
+    - [Meetings](\)
+  - [Outputs]
+    - [Project Management Plan](https://www.projectmanagementdocs.com/template/project-planning/project-management-plan/#axzz5S1jb73BE)
+     - [Project Management Plan Kickoff](http://oe.ucdavis.edu/local_resources/docs/pmpkickoff.pdf)
+
 
 
 
