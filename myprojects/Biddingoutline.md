@@ -1,49 +1,46 @@
 # Bidding Outline
 ---
-## [Tender Documents](https://pan.baidu.com/s/1djTzYuKiwgBTjoL6sSlwVA)
- -  密码：pr9h
- - Projects
-   - Construction of Ugunjia-Sega-Ukwala Water Supply and Sanitation Project
-   - Design and build works for Nandi Hills Water Supply and Sanitation Project
-   - Design and build works for Kilgoris and Lolgorian Water Supply and Sanitation Project
- - Openning
-   - Date:
-   > 12:00pm 18th, September, 2018
+## [Tender Documents]
+- Vol 1 tender Document
+- Vol 2 BOQ
+- Vol 3 Specification
+- Vol 4
+- Vol 5
 
-     > 12:00pm 25th, September, 2018
-   - Place
-   > Rift Valley Water Service Board
+## Bidding Document
+### Qualification
+- Company
+- Financial
+- Experience
+- Personnel
+- Machinery
 
-## Documentation
- - Qualification(as per tender requirements)
-  - To be provided by HQ
-    - Power of Attorney
-    - Personnel
-    - Major equipment
-    - Major manufacture
-    - Financial
-  - To be prepared locally
-    - Company certificate
-    - Tax compliance
-    - Bid security
-    - NCA certificates
- - Technical
-  - Site organization
-  - Schedules
-  - Method statement
- - BOQ
+### Technical
+- Site Organization
+- Method Statement
 
-## Tender Requirements
-- As per forms
-- As per requirements
+### Priced BOQ
 
-## Milestone
-- Tender 1
- - Deadline: 18th Oct 2018
- - Documentation before 15th Oct 2018
- - Qualification before 13rd Oct 2018
- - Chinese documents before 5th Oct 2018(depend on the notory and translation duration)
- - Site visit before 5th Oct 2018
-- Tender 2/3
- - Most of Documents from HQ can reuse
- - Mainly for Technical and BOQ
+## Submission and Openning
+---
+# Template
+## Road
+
+
+## Water
+
+
+## Building
+
+---
+# Key Index
+
+## Price Index
+
+## Cost Index
+- Personnel
+- Machinery
+- Material
+
+---
+# Composite Price
