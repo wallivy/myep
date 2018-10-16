@@ -13,3 +13,4 @@
 ## ESHS Management
 - [ESMS Plan for Aurora Gold Project](https://s21.q4cdn.com/896225004/files/doc_appendix/Appendix-7A-ESMS-Plan-Aurora-Project-FINAL-07-30-2013%5B1%5D.pdf)
 - [Risk Management Implementation Strategy](https://www.icwa.wa.gov.au/__data/assets/pdf_file/0015/7116/Risk-Management-Implementation-Strategy-sample.pdf)
+- [Code of Conduct](https://www.dropbox.com/preview/QHSE/Code%20of%20Conduct.doc?role=personal)
