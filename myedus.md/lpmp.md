@@ -5,7 +5,7 @@
 - [projectmanagement](https://www.projectmanagement.com/)
 - [Project Management Docs](https://www.projectmanagementdocs.com/#axzz5S1jb73BE)
 
-### Initiating Group
+### Integration Management
 - [4.1 Deveelop Project Charter](https://circle.visual-paradigm.com/docs/project-management-lifecycle-guide-through/initiation-phase/how-to-develop-project-charter/)
  - Inputs
    - [Business documents](https://www.greycampus.com/opencampus/project-management-professional/project-business-documents)
@@ -117,9 +117,135 @@
     - [Meetings](\)
   - [Outputs]
     - [Project Management Plan](https://www.projectmanagementdocs.com/template/project-planning/project-management-plan/#axzz5S1jb73BE)
-     - [Project Management Plan Kickoff](http://oe.ucdavis.edu/local_resources/docs/pmpkickoff.pdf)
+    - [Project Management Plan Kickoff](http://oe.ucdavis.edu/local_resources/docs/pmpkickoff.pdf)
 
+- [4.3 Direct and Manage Project Work]()
+  - Inpouts
+    - [Project Management Plan](\)
+    - [Project Documents](\)
+    - [Approved change requests](\)
+    - [Enterprise Environmental Factors](\)
+    - [Organizational process assets](\)
 
+  - Tools & Techniques
+    - [Expert judgement](\)
+    - [Project management information system](\)
+    - [Meetings](\)
+
+  - Outputs
+    - [Deliverables]
+    - [Work performance data]
+    - [Issue log]
+    - [Change requests]
+    - [Project management plan updates]
+    - [Project documents updates]
+    - [Organizational process assets updates]
+
+- [4.4 Manage Project Knowledge]
+  - [Inputs]
+    - [Project management plan]
+    - [Project documents]
+    - [Deliverables]
+    - [Entrprise environmental factors]
+    - [Organizational process assets]
+  - [Tools & Techniques]
+    - [Expert judgement]
+    - [Knowledge management]
+    - [Information management]
+    - [Interpersonal and team skills]
+  - [Outputs]
+    - [Lessons learned register]
+    - [Project management plan updates]
+    - [Organizational process assets updates]
+
+- [4.5 Monitor and Control Project Work]
+  - [Inputs]
+    - [Project management plan]
+    - [Project documents]
+    - [Work performance information]
+    - [Agreements]
+    - [Enterprise environmental factors]
+    - [Organizational process assets]
+  - [Tools & Techniques]
+    - [Expert judgement]
+    - [Data analysis]
+    - [Decision making]
+    - [Meetings]
+  - [Outputs]
+    - [Work performance reports]
+    - [Change requests]
+    - [Project management plan updates]
+    - [Project documents updates]
+
+- [4.6 Perform Integrated Change Control]
+  - [Inputs]
+    - [Project management plan]
+    - [Project documents]
+    - [Work performance reports]
+    - [Change requests]
+    - [Enterprise environmental factors]
+    - [Organizational process assets]
+  - [Tools & Techniques]
+    - [Expert judgement]
+    - [Data analysis]
+    - [Meetings]
+  - [Outputs]
+    - [Project documents updates]
+    - [Final product,service,or result transition]
+    - [Final report]
+    - [Organizational process assets updates]
+
+- [4.7 Close Project or Phase]
+  - [Inputs]
+    - [Project charter]
+    - [Project management plan]
+    - [Project documents]
+    - [Accepted deliverables]
+    - [Business documents]
+    - [Agreements]
+    - [Procurement documentation]
+    - [Organizational process assets]
+  - [Tools & Techniques]
+    - [Expert judgement]
+    - [Data analysis]
+    - [Meetings]
+  - [Outputs]
+    - [Project documents updates]
+    - [Final product,service,or result transition]
+    - [Final report]
+    - [Organizational process assets updates]
+
+### Scope Management
+- [5.1 Plan Scope Management]
+- [5.2 Collect Requirement]
+- [5.3 Define Scope]
+- [5.4 Create WBS]
+- [5.5 Validate Scope]
+- [5.6 Control Scope]
+### Schedule Management
+- [6.1 Plan Schedule Management]
+- [6.2 Define Activities]
+- [6.3 Sequence Activities]
+- [6.4 Estimate Activity Durations]
+- [6.5 Develop Schedule]
+- [6.6 Control Schedule]
+### Cost Management
+- [7.1 Plan Cost Management]
+- [7.2 Estimate Costs]
+- [7.3 Determine Budget]
+- [7.4 Control Costs]
+### Quality Management
+- [8.1 Plan Quality Management]
+- [8.2 Manage Quality]
+- [8.3 Control Quality]
+### Resouce Management
+- [9.1 Plan Resource Management]
+- [9.2 Estimate Activity Resource]
+- [9.3 Acquire Resources]
+- [9.4 Develop Team]
+- [9.5 Manage Team]
+- [9.6 Control Resources]
+### Communication Management
 
 
 
