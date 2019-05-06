@@ -1,11 +1,18 @@
 # Specification collection for Water
 ---
-## Design
+## General
+  - [GENERAL GUIDELINES FOR NEW DAMS AND IMPROVEMENTS TO EXISTING DAMS IN INDIAN](https://www.in.gov/dnr/water/files/wa-damguidelines.pdf)
+  - [General Design and Construction Considerations for Earth and  Rock-Fill Dams](https://www.publications.usace.army.mil/Portals/76/Publications/EngineerManuals/EM_1110-2-2300.pdf)
+  - [Rock and Earth Fill Dams-General Design and Construction Considerations](https://www.cedengineering.com/userfiles/Earth%20and%20Rock%20Fill%20Dams.PDF)
   - [Filters for
  Embankment Dams-Best Practise for Design and Construction](https://www.fema.gov/media-library-data/1522783448418-8294f1e44e9509a1313f3930e5519d0e/filters_embankment_dams_508_update.pdf)
   - [National Engineering Handbook-Hydrology](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/water/manage/hydrology/?cid=stelprdb1043063#)
-  - [Rock and Earth Fill Dams-General Design and Construction Considerations](https://www.cedengineering.com/userfiles/Earth%20and%20Rock%20Fill%20Dams.PDF)
   - [Design and Construction of Embankment Dams ](http://aitech.ac.jp/~narita/tembankmentdam1.pdf)
+  - [GUIDELINES FOR THE CONSTRUCTION OF EARTH-FILL DAMS](https://dpipwe.tas.gov.au/Documents/Guidelines-for-earth-fill-dams.pdf)
+  -
+
+## Design
+
   - [Design Standards No. 13 Embankment Dams](https://www.usbr.gov/tsc/techreferences/designstandards-datacollectionguides/finalds-pdfs/DS13-2.pdf)
   - [防洪标准GB50201-94](https://wenku.baidu.com/view/fad28b3c5727a5e9856a61a7.html)
   - [水利水电工程等级划分及洪水标准SL252-2000](https://wenku.baidu.com/view/56b1346a1eb91a37f1115cfc.html?sxts=1535784568421)
@@ -20,6 +27,15 @@
   - [水利水电工程地质勘察规范GB50487-2008](http://www.doc88.com/p-48035243694.html)
   - [水利水电工程边坡设计规范SL386-2007](https://wenku.baidu.com/view/8f7c591b650e52ea55189847.html)
   - [水利水电工程施工导流设计规范SL623-2013](http://jz.docin.com/p-1044792513.html?docfrom=rrela)
+
+## Surveying
+  - [Total Station System (TSS)                                                Survey Specification](http://www.wsdot.wa.gov/publications/manuals/fulltext/M22-97/Chapter9.pdf)
+  - [Specification for Surveying Works](http://gnpgeo.com.my/download/spec/SP025.pdf)
+  - [TECHNICAL SPECIFICATION FOR TOPOGRAPHICAL SURVEY](http://www.bhel.com/dynamic_files/tender_files/pdf/Annexure-J-1507-Topographical%20Survey%20Tech%20Specification.pdf)
+  - [GUIDE TO QA SPECIFICATION G71 CONSTRUCTION SURVEYS](http://www.rms.nsw.gov.au/business-industry/partners-suppliers/documents/specifications/ng71.pdf)
+  -
+
+
 
 ## Construction
   - [GUIDELINES FOR THE CONSTRUCTION OF EARTH-FILL DAMS](https://dpipwe.tas.gov.au/Documents/Guidelines-for-earth-fill-dams.pdf)
