@@ -33,7 +33,9 @@
   - [Specification for Surveying Works](http://gnpgeo.com.my/download/spec/SP025.pdf)
   - [TECHNICAL SPECIFICATION FOR TOPOGRAPHICAL SURVEY](http://www.bhel.com/dynamic_files/tender_files/pdf/Annexure-J-1507-Topographical%20Survey%20Tech%20Specification.pdf)
   - [GUIDE TO QA SPECIFICATION G71 CONSTRUCTION SURVEYS](http://www.rms.nsw.gov.au/business-industry/partners-suppliers/documents/specifications/ng71.pdf)
-  -
+  - [水利水电工程测量规范SL197-2013](http://www.kaola100.com/u/cms/www/201610/09104654q626.pdf)
+  - [水利水电工程施工测量规范SL52-2015](https://max.book118.com/html/2017/0523/108560308.shtm)
+  - 
 
 
 
