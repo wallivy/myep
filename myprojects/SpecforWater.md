@@ -29,13 +29,15 @@
   - [水利水电工程施工导流设计规范SL623-2013](http://jz.docin.com/p-1044792513.html?docfrom=rrela)
 
 ## Surveying
+  - [British Columbia Standards, Specifications and Guidelines for Resource Surveys Using Global Positioning System (GPS) Technology](https://www.for.gov.bc.ca/dkm/ESF_Info/GPS_Standards_Resource_Surveys.pdf)
+  - [Survey Manual-GNSS/GPS](https://www.codot.gov/business/manuals/survey/chapter-3/chapter3.pdf)
   - [Total Station System (TSS)                                                Survey Specification](http://www.wsdot.wa.gov/publications/manuals/fulltext/M22-97/Chapter9.pdf)
   - [Specification for Surveying Works](http://gnpgeo.com.my/download/spec/SP025.pdf)
   - [TECHNICAL SPECIFICATION FOR TOPOGRAPHICAL SURVEY](http://www.bhel.com/dynamic_files/tender_files/pdf/Annexure-J-1507-Topographical%20Survey%20Tech%20Specification.pdf)
   - [GUIDE TO QA SPECIFICATION G71 CONSTRUCTION SURVEYS](http://www.rms.nsw.gov.au/business-industry/partners-suppliers/documents/specifications/ng71.pdf)
   - [水利水电工程测量规范SL197-2013](http://www.kaola100.com/u/cms/www/201610/09104654q626.pdf)
   - [水利水电工程施工测量规范SL52-2015](https://max.book118.com/html/2017/0523/108560308.shtm)
-  - 
+  -
 
 
 
