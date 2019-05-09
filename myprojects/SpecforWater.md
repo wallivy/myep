@@ -29,6 +29,8 @@
   - [水利水电工程施工导流设计规范SL623-2013](http://jz.docin.com/p-1044792513.html?docfrom=rrela)
 
 ## Surveying
+  - [NationaL Geodetic Survey](https://www.ngs.noaa.gov/)
+  - [Standard Publications-FDGC Federal Geographic Data Committee](https://www.fgdc.gov/standards/standards_publications/index_html)
   - [British Columbia Standards, Specifications and Guidelines for Resource Surveys Using Global Positioning System (GPS) Technology](https://www.for.gov.bc.ca/dkm/ESF_Info/GPS_Standards_Resource_Surveys.pdf)
   - [Survey Manual-GNSS/GPS](https://www.codot.gov/business/manuals/survey/chapter-3/chapter3.pdf)
   - [Total Station System (TSS)                                                Survey Specification](http://www.wsdot.wa.gov/publications/manuals/fulltext/M22-97/Chapter9.pdf)
